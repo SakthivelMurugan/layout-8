@@ -47,16 +47,18 @@
 	height:50px;
 	width:100px;
 	background-color:white;
-	margin:5px;
-	margin-left:230px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .one .split2 .text
 {
 	height:20px;
 	width:50px;
 	background-color:white;
-	margin:5px;
-	margin-left:250px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .two
 {
@@ -77,24 +79,27 @@
 	height:50px;
 	width:100px;
 	background-color:blue;
-	margin:5px;
-	margin-left:230px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .two .split1 .text
 {
 	height:20px;
 	width:80px;
 	background-color:gray;
-	margin:5px;
-	margin-left:240px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .two .split1 .b
 {
 	height:20px;
 	width:50px;
 	background-color:pink;
-	margin:5px;
-	margin-left:450px;
+	margin:0px auto;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 .two .split2
 {
@@ -105,14 +110,7 @@
 {
 	display:flex;
 	flex-direction:row;
-}
-.two .split2 .split21 .b1
-{
-	height:20px;
-	width:50px;
-	background-color:purple;
-	margin:5px;
-	margin-left:200px;
+	justify-content:center;
 }
 .two .split2 .split21 .b
 {
